@@ -18,5 +18,8 @@
         "react"
     ],
     "rules": {
+        "no-console": "off",
+        "require-jsdoc": "off",
+        "arrow-parens": "off"
     }
 }
